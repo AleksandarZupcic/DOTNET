@@ -1,0 +1,14 @@
+c:\_csharp\FraudulentOrder\bin\Debug\net9.0\FraudulentOrder.exe
+C:\_csharp\FraudulentOrder\bin\Debug\net9.0\FraudulentOrder.deps.json
+C:\_csharp\FraudulentOrder\bin\Debug\net9.0\FraudulentOrder.runtimeconfig.json
+c:\_csharp\FraudulentOrder\bin\Debug\net9.0\FraudulentOrder.dll
+c:\_csharp\FraudulentOrder\bin\Debug\net9.0\FraudulentOrder.pdb
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.AssemblyInfoInputs.cache
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.AssemblyInfo.cs
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.csproj.CoreCompileInputs.cache
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.dll
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\refint\FraudulentOrder.dll
+c:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.pdb
+C:\_csharp\FraudulentOrder\obj\Debug\net9.0\FraudulentOrder.genruntimeconfig.cache
+C:\_csharp\FraudulentOrder\obj\Debug\net9.0\ref\FraudulentOrder.dll

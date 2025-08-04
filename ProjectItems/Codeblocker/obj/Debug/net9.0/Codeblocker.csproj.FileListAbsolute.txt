@@ -1,0 +1,14 @@
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.AssemblyInfoInputs.cache
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.AssemblyInfo.cs
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.csproj.CoreCompileInputs.cache
+c:\_csharp\Codeblocker\bin\Debug\net9.0\Codeblocker.exe
+C:\_csharp\Codeblocker\bin\Debug\net9.0\Codeblocker.deps.json
+C:\_csharp\Codeblocker\bin\Debug\net9.0\Codeblocker.runtimeconfig.json
+c:\_csharp\Codeblocker\bin\Debug\net9.0\Codeblocker.dll
+c:\_csharp\Codeblocker\bin\Debug\net9.0\Codeblocker.pdb
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.dll
+c:\_csharp\Codeblocker\obj\Debug\net9.0\refint\Codeblocker.dll
+c:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.pdb
+C:\_csharp\Codeblocker\obj\Debug\net9.0\Codeblocker.genruntimeconfig.cache
+C:\_csharp\Codeblocker\obj\Debug\net9.0\ref\Codeblocker.dll

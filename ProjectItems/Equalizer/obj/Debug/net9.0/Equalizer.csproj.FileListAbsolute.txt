@@ -1,0 +1,14 @@
+c:\_csharp\Equalizer\bin\Debug\net9.0\Equalizer.exe
+C:\_csharp\Equalizer\bin\Debug\net9.0\Equalizer.deps.json
+C:\_csharp\Equalizer\bin\Debug\net9.0\Equalizer.runtimeconfig.json
+c:\_csharp\Equalizer\bin\Debug\net9.0\Equalizer.dll
+c:\_csharp\Equalizer\bin\Debug\net9.0\Equalizer.pdb
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.AssemblyInfoInputs.cache
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.AssemblyInfo.cs
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.csproj.CoreCompileInputs.cache
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.dll
+c:\_csharp\Equalizer\obj\Debug\net9.0\refint\Equalizer.dll
+c:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.pdb
+C:\_csharp\Equalizer\obj\Debug\net9.0\Equalizer.genruntimeconfig.cache
+C:\_csharp\Equalizer\obj\Debug\net9.0\ref\Equalizer.dll

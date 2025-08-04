@@ -1,0 +1,14 @@
+c:\_csharp\Forlooper\bin\Debug\net9.0\Forlooper.exe
+C:\_csharp\Forlooper\bin\Debug\net9.0\Forlooper.deps.json
+C:\_csharp\Forlooper\bin\Debug\net9.0\Forlooper.runtimeconfig.json
+c:\_csharp\Forlooper\bin\Debug\net9.0\Forlooper.dll
+c:\_csharp\Forlooper\bin\Debug\net9.0\Forlooper.pdb
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.AssemblyInfoInputs.cache
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.AssemblyInfo.cs
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.csproj.CoreCompileInputs.cache
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.dll
+c:\_csharp\Forlooper\obj\Debug\net9.0\refint\Forlooper.dll
+c:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.pdb
+C:\_csharp\Forlooper\obj\Debug\net9.0\Forlooper.genruntimeconfig.cache
+C:\_csharp\Forlooper\obj\Debug\net9.0\ref\Forlooper.dll

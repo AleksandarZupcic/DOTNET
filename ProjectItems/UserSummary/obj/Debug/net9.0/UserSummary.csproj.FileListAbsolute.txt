@@ -1,0 +1,14 @@
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.AssemblyInfoInputs.cache
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.AssemblyInfo.cs
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.csproj.CoreCompileInputs.cache
+C:\_csharp\UserSummary\bin\Debug\net9.0\UserSummary.exe
+C:\_csharp\UserSummary\bin\Debug\net9.0\UserSummary.deps.json
+C:\_csharp\UserSummary\bin\Debug\net9.0\UserSummary.runtimeconfig.json
+C:\_csharp\UserSummary\bin\Debug\net9.0\UserSummary.dll
+C:\_csharp\UserSummary\bin\Debug\net9.0\UserSummary.pdb
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.dll
+C:\_csharp\UserSummary\obj\Debug\net9.0\refint\UserSummary.dll
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.pdb
+C:\_csharp\UserSummary\obj\Debug\net9.0\UserSummary.genruntimeconfig.cache
+C:\_csharp\UserSummary\obj\Debug\net9.0\ref\UserSummary.dll

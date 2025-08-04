@@ -1,0 +1,14 @@
+c:\_csharp\FraudDetection\bin\Debug\net9.0\FraudDetection.exe
+C:\_csharp\FraudDetection\bin\Debug\net9.0\FraudDetection.deps.json
+C:\_csharp\FraudDetection\bin\Debug\net9.0\FraudDetection.runtimeconfig.json
+c:\_csharp\FraudDetection\bin\Debug\net9.0\FraudDetection.dll
+c:\_csharp\FraudDetection\bin\Debug\net9.0\FraudDetection.pdb
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.AssemblyInfoInputs.cache
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.AssemblyInfo.cs
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.csproj.CoreCompileInputs.cache
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.dll
+c:\_csharp\FraudDetection\obj\Debug\net9.0\refint\FraudDetection.dll
+c:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.pdb
+C:\_csharp\FraudDetection\obj\Debug\net9.0\FraudDetection.genruntimeconfig.cache
+C:\_csharp\FraudDetection\obj\Debug\net9.0\ref\FraudDetection.dll

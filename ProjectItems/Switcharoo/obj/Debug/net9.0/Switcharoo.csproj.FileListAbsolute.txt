@@ -1,0 +1,14 @@
+c:\_csharp\Switcharoo\bin\Debug\net9.0\Switcharoo.exe
+C:\_csharp\Switcharoo\bin\Debug\net9.0\Switcharoo.deps.json
+C:\_csharp\Switcharoo\bin\Debug\net9.0\Switcharoo.runtimeconfig.json
+c:\_csharp\Switcharoo\bin\Debug\net9.0\Switcharoo.dll
+c:\_csharp\Switcharoo\bin\Debug\net9.0\Switcharoo.pdb
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.AssemblyInfoInputs.cache
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.AssemblyInfo.cs
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.csproj.CoreCompileInputs.cache
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.dll
+c:\_csharp\Switcharoo\obj\Debug\net9.0\refint\Switcharoo.dll
+c:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.pdb
+C:\_csharp\Switcharoo\obj\Debug\net9.0\Switcharoo.genruntimeconfig.cache
+C:\_csharp\Switcharoo\obj\Debug\net9.0\ref\Switcharoo.dll

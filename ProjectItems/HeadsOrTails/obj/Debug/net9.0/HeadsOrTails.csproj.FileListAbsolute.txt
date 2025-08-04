@@ -1,0 +1,14 @@
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.AssemblyInfoInputs.cache
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.AssemblyInfo.cs
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+c:\_csharp\HeadsOrTails\bin\Debug\net9.0\HeadsOrTails.exe
+C:\_csharp\HeadsOrTails\bin\Debug\net9.0\HeadsOrTails.deps.json
+C:\_csharp\HeadsOrTails\bin\Debug\net9.0\HeadsOrTails.runtimeconfig.json
+c:\_csharp\HeadsOrTails\bin\Debug\net9.0\HeadsOrTails.dll
+c:\_csharp\HeadsOrTails\bin\Debug\net9.0\HeadsOrTails.pdb
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.dll
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\refint\HeadsOrTails.dll
+c:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.pdb
+C:\_csharp\HeadsOrTails\obj\Debug\net9.0\HeadsOrTails.genruntimeconfig.cache
+C:\_csharp\HeadsOrTails\obj\Debug\net9.0\ref\HeadsOrTails.dll

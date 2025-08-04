@@ -1,0 +1,14 @@
+C:\_csharp\Arrayer\bin\Debug\net9.0\Arrayer.exe
+C:\_csharp\Arrayer\bin\Debug\net9.0\Arrayer.deps.json
+C:\_csharp\Arrayer\bin\Debug\net9.0\Arrayer.runtimeconfig.json
+C:\_csharp\Arrayer\bin\Debug\net9.0\Arrayer.dll
+C:\_csharp\Arrayer\bin\Debug\net9.0\Arrayer.pdb
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.AssemblyInfoInputs.cache
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.AssemblyInfo.cs
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.csproj.CoreCompileInputs.cache
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.dll
+C:\_csharp\Arrayer\obj\Debug\net9.0\refint\Arrayer.dll
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.pdb
+C:\_csharp\Arrayer\obj\Debug\net9.0\Arrayer.genruntimeconfig.cache
+C:\_csharp\Arrayer\obj\Debug\net9.0\ref\Arrayer.dll
