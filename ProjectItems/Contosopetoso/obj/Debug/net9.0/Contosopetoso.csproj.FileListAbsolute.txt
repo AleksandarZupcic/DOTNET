@@ -1,0 +1,15 @@
+c:\_csharp\ProjectItems\Contosopetoso\bin\Debug\net9.0\Contosopetoso.exe
+C:\_csharp\ProjectItems\Contosopetoso\bin\Debug\net9.0\Contosopetoso.deps.json
+C:\_csharp\ProjectItems\Contosopetoso\bin\Debug\net9.0\Contosopetoso.runtimeconfig.json
+c:\_csharp\ProjectItems\Contosopetoso\bin\Debug\net9.0\Contosopetoso.dll
+c:\_csharp\ProjectItems\Contosopetoso\bin\Debug\net9.0\Contosopetoso.pdb
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.AssemblyInfoInputs.cache
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.AssemblyInfo.cs
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.csproj.CoreCompileInputs.cache
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.sourcelink.json
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.dll
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\refint\Contosopetoso.dll
+c:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.pdb
+C:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\Contosopetoso.genruntimeconfig.cache
+C:\_csharp\ProjectItems\Contosopetoso\obj\Debug\net9.0\ref\Contosopetoso.dll

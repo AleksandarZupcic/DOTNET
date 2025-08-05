@@ -1,0 +1,15 @@
+c:\_csharp\ProjectItems\Arraywhiler\bin\Debug\net9.0\Arraywhiler.exe
+C:\_csharp\ProjectItems\Arraywhiler\bin\Debug\net9.0\Arraywhiler.deps.json
+C:\_csharp\ProjectItems\Arraywhiler\bin\Debug\net9.0\Arraywhiler.runtimeconfig.json
+c:\_csharp\ProjectItems\Arraywhiler\bin\Debug\net9.0\Arraywhiler.dll
+c:\_csharp\ProjectItems\Arraywhiler\bin\Debug\net9.0\Arraywhiler.pdb
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.AssemblyInfoInputs.cache
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.AssemblyInfo.cs
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.csproj.CoreCompileInputs.cache
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.sourcelink.json
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.dll
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\refint\Arraywhiler.dll
+c:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.pdb
+C:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\Arraywhiler.genruntimeconfig.cache
+C:\_csharp\ProjectItems\Arraywhiler\obj\Debug\net9.0\ref\Arraywhiler.dll

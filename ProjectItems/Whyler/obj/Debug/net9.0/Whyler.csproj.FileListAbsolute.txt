@@ -1,0 +1,15 @@
+c:\_csharp\ProjectItems\Whyler\bin\Debug\net9.0\Whyler.exe
+C:\_csharp\ProjectItems\Whyler\bin\Debug\net9.0\Whyler.deps.json
+C:\_csharp\ProjectItems\Whyler\bin\Debug\net9.0\Whyler.runtimeconfig.json
+c:\_csharp\ProjectItems\Whyler\bin\Debug\net9.0\Whyler.dll
+c:\_csharp\ProjectItems\Whyler\bin\Debug\net9.0\Whyler.pdb
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.AssemblyInfoInputs.cache
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.AssemblyInfo.cs
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.csproj.CoreCompileInputs.cache
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.sourcelink.json
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.dll
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\refint\Whyler.dll
+c:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.pdb
+C:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\Whyler.genruntimeconfig.cache
+C:\_csharp\ProjectItems\Whyler\obj\Debug\net9.0\ref\Whyler.dll

@@ -1,0 +1,15 @@
+c:\_csharp\ProjectItems\StringValidator\bin\Debug\net9.0\StringValidator.exe
+C:\_csharp\ProjectItems\StringValidator\bin\Debug\net9.0\StringValidator.deps.json
+C:\_csharp\ProjectItems\StringValidator\bin\Debug\net9.0\StringValidator.runtimeconfig.json
+c:\_csharp\ProjectItems\StringValidator\bin\Debug\net9.0\StringValidator.dll
+c:\_csharp\ProjectItems\StringValidator\bin\Debug\net9.0\StringValidator.pdb
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.AssemblyInfoInputs.cache
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.AssemblyInfo.cs
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.csproj.CoreCompileInputs.cache
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.sourcelink.json
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.dll
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\refint\StringValidator.dll
+c:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.pdb
+C:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\StringValidator.genruntimeconfig.cache
+C:\_csharp\ProjectItems\StringValidator\obj\Debug\net9.0\ref\StringValidator.dll

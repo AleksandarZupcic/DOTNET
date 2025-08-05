@@ -1,0 +1,15 @@
+c:\_csharp\ProjectItems\Betweennumbers\bin\Debug\net9.0\Betweennumbers.exe
+C:\_csharp\ProjectItems\Betweennumbers\bin\Debug\net9.0\Betweennumbers.deps.json
+C:\_csharp\ProjectItems\Betweennumbers\bin\Debug\net9.0\Betweennumbers.runtimeconfig.json
+c:\_csharp\ProjectItems\Betweennumbers\bin\Debug\net9.0\Betweennumbers.dll
+c:\_csharp\ProjectItems\Betweennumbers\bin\Debug\net9.0\Betweennumbers.pdb
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.AssemblyInfoInputs.cache
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.AssemblyInfo.cs
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.csproj.CoreCompileInputs.cache
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.sourcelink.json
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.dll
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\refint\Betweennumbers.dll
+c:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.pdb
+C:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\Betweennumbers.genruntimeconfig.cache
+C:\_csharp\ProjectItems\Betweennumbers\obj\Debug\net9.0\ref\Betweennumbers.dll
